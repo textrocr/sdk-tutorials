@@ -17,7 +17,7 @@ The liquidity module allows users to use pools to trade those tokens on your blo
 
 In this tutorial, you create your own blockchain, send tokens to another blockchain, create a pool, deposit to a pool, withdraw from a pool, and swap tokens.
 
-**Important** In the code examples throughout this tutorial, when you see username be sure to substitute your username. 
+**Important** In the code examples throughout this tutorial, when you see cosmonaut be sure to substitute your username. 
 
 **You will learn how to:**
 
