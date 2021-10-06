@@ -29,6 +29,7 @@ In case the above command throws up an error, try to use the following set of co
 ```
 curl https://get.starport.network/starport > starport.sh
 bash starport.sh
+sudo mv starport /usr/local/bin/
 ```
 
 If you still get a permission denied error, try using a sudo instead (to give it appropriate permissions)
